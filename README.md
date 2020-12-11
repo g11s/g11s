@@ -2,10 +2,10 @@
 
 ### I'm Gabriel Mendes de Paulo 😁
 I'm a <b>Fullstack Developer/Computer Engineering student</b> that loves coding. I code since i was 15yo, and that's my true passion. My first language was <code>Lua</code>, but now my stack is totally different.
+[](http://www.google.com)
+<blockquote>📫 Meet me! [LinkedIn](https://www.linkedin.com/in/dev-gabriel-mendes)</blockquote>
 
-[]()<blockquote>📫 Meet me! [LinkedIn](https://www.linkedin.com/in/dev-gabriel-mendes)</blockquote><br/>
-
-I'm currently working at [Dotlib](https://dotlib.com/) as a <code>Full Stack</code>.<br/>
+I'm currently working at [Dotlib](https://dotlib.com/) as a <code>Full Stack</code>.
 
 My current focus on learning is Go, but i'm always looking into improving myself on what i already know.<br/>
 

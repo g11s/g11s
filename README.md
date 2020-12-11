@@ -1,9 +1,9 @@
 ### Hello World 👋
 
-### I'm Gabriel Mendes de Paulo 😁<br/>
-I'm a <b>Fullstack Developer/Computer Engineering student</b> that loves coding. I code since i was 15yo, and that's my true passion. My first language was <code>Lua</code>, but now my stack is totally different.<br/>
+### I'm Gabriel Mendes de Paulo 😁
+I'm a <b>Fullstack Developer/Computer Engineering student</b> that loves coding. I code since i was 15yo, and that's my true passion. My first language was <code>Lua</code>, but now my stack is totally different.
 
-<pre>📫 Meet me! [LinkedIn](https://www.linkedin.com/in/dev-gabriel-mendes/)</pre><br/>
+[]()<blockquote>📫 Meet me! [LinkedIn](https://www.linkedin.com/in/dev-gabriel-mendes)</blockquote><br/>
 
 I'm currently working at [Dotlib](https://dotlib.com/) as a <code>Full Stack</code>.<br/>
 

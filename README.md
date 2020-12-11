@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**g11s/g11s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel Mendes de Paulo 😁<br/>
+I'm a Fullstack Developer/Computer Engineering student that loves coding. I code since i was 15yo, and that's my true passion. My first language was Lua, but now my stack is totally different.<br/>
 
-Here are some ideas to get you started:
+📫 Meet me! [LinkedIn](https://www.linkedin.com/in/dev-gabriel-mendes/)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working at Dotlib as a Full Stack.<br/>
+
+My current focus on learning is Go, but i'm always looking into improving myself on what i already know.<br/>
+
+You can feel free to contact me at Linkedin, even if just to meet me. 😂<br/>
+
+⚡ Fun Fact: I really love Node and React, simplicity always make me very curious.

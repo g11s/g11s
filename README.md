@@ -5,7 +5,7 @@ I'm a <b>Fullstack Developer/Computer Engineering student</b> that loves coding.
 
 📫 Meet me! [LinkedIn](https://www.linkedin.com/in/dev-gabriel-mendes)
 
-I'm currently working at [Dotlib](https://dotlib.com/) as a <code>Full Stack</code>.
+I'm currently working at [BTG Pactual](https://www.btgpactual.com/) as a <code>Backend Engineer</code>.
 
 My current focus on learning is Go, but i'm always looking into improving myself on what i already know.<br/>
 

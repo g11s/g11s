@@ -7,7 +7,7 @@ I'm a <b>Backend Engineer/Computer Engineering student</b> that loves coding. I 
 
 I'm currently working at [BTG Pactual](https://www.btgpactual.com/) as a <code>Backend Engineer</code>.
 
-I love learning new things, so every day I try to learn anything new<br/>
+I love learning new things, so I try to learn anything new every day<br/>
 
 You can feel free to contact me on Linkedin, even if just to meet me. 😂<br/>
 

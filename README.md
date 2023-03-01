@@ -13,6 +13,6 @@ You can feel free to contact me on Linkedin, even if just to meet me. 😂<br/>
 
 ⚡ <b>Fun Fact:</b> I really love <code>Node</code> and <code>React</code>, simplicity always make me very curious.
 
-<b>What about knowing about some projects created by me?</b>
-[Sol Language](https://github.com/g11s/sol-language) - I'm trying to create a compiler for a new language to learn many things about how everything works when we're talking about a programming language.
+<b>What about knowing about some projects created by me?</b><br/>
+[Sol Language](https://github.com/g11s/sol-language) - I'm trying to create a compiler for a new language to learn many things about how everything works when we're talking about a programming language.<br/>
 [Bot LOL](https://github.com/g11s/bot-lol) - Who doesn't know Lol yet? I created a software to automatically pick and ban champions during the pick phase
